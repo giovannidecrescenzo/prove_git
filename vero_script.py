@@ -11,4 +11,5 @@ ax.hist(x,bins = 1000, alpha = 0.8, label = "SSSSEEEEEE", color = "skyblue")
 ax.hist(y,bins = 1000, alpha = 0.8, label = "SSSSEEEEEE", color = "red")
 plt.label()
 plt.show()
+plt.savefig("megaplot.png")
 
